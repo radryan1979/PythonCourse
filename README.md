@@ -35,29 +35,29 @@ Install **Python** <br>
 
 #### Installing the Python Packages
 
-Install **Numpy**<br>
+Install **[Numpy](https://numpy.org)**<br>
 `sudo port install py39-numpy`
 
-Install **Matplotlib**<br>
+Install **[Matplotlib](https://matplotlib.org)**<br>
 `sudo port install py39-matplotlib`
 
-Install **Scipy**<br>
+Install **[Scipy](https://scipy.org)**<br>
 `sudo port install py39-scipy`
 
-Install **Ipython**<br>
+Install **[Ipython](https://ipython.org)**<br>
 `sudo port install py39-ipython`
 
-Install **Jupyter**<br>
+Install **[Jupyter](https://jupyter.org)**<br>
 `sudo port install py39-jupyter`<br>
 `sudo port install py39-jupyterlab`
 
-Install **Sympy**<br>
+Install **[Sympy](https://www.sympy.org/en/index.html)**<br>
 `sudo port install py39-sympy`
 
-Install **Cython**<br>
+Install **[Cython](https://cython.readthedocs.io/en/latest/)**<br>
 `sudo port install py39-cython`
 
-Install **Pandas**<br>
+Install **[Pandas](https://pandas.pydata.org)**<br>
 `sudo port install py39-pandas`
 
 ---
