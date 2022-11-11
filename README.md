@@ -2,16 +2,16 @@
 
 Suggested text/code editor that does it all, VSCode. Free, large community building extensions for just about everything. Download [VSCode](https://code.visualstudio.com/download)
 
-##The Folders
+## The Folders
 
-###Notebooks Folder
+### Notebooks Folder
 Contains jupyter notebooks that can be opened in VSCode and used to interactively explore concepts.
 
-###Data Folder
+### Data Folder
 Contains some basic CSV and text data for examples.
 
 ---
-##Installing MacPorts
+## Installing MacPorts
 
 For MAC users, first start with installing MacPorts
 [MacPorts Installer Download](https://www.macports.org/install.php)
