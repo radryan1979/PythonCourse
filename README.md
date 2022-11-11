@@ -68,3 +68,10 @@ Install **Pandas**<br>
 - [Learning Scientific Programming with Python](https://scipython.com/book2/) online book.
 - [Python Quick Reference Cheat Sheet](https://programmingwithmosh.com/python/python-3-cheat-sheet/)
 - [The Ultimate Online Python Cheat Sheet](https://www.pythoncheatsheet.org)
+
+---
+
+## Matplotlib Links
+- [Quickstart Guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
+- [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
+- 
