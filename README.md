@@ -82,3 +82,6 @@ Install **[Pandas](https://pandas.pydata.org)**<br>
 ## Matplotlib Links
 - [Quickstart Guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
+
+## Other Links
+- [Numpy for Matlab](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) users quick comparison.
