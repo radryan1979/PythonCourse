@@ -74,4 +74,3 @@ Install **Pandas**<br>
 ## Matplotlib Links
 - [Quickstart Guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
-- 
