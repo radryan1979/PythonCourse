@@ -85,3 +85,8 @@ Install **[Pandas](https://pandas.pydata.org)**<br>
 
 ## Other Links
 - [Numpy for Matlab](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) users quick comparison.
+
+---
+## Shells and Stuff
+
+The first thing you'll want to do when you start using the terminal, is to change your default shell. Most MACs will default the Z shell and for 
