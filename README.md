@@ -1,4 +1,4 @@
-# Python Course for UD CEOE
+# Python Course for my favorite grad students
 
 Suggested text/code editor that does it all, VSCode. Free, large community building extensions for just about everything. Download [VSCode](https://code.visualstudio.com/download)
 
