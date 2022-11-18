@@ -2,9 +2,7 @@
 
 Suggested text/code editor that does it all, VSCode. Free, large community building extensions for just about everything. Download [VSCode](https://code.visualstudio.com/download)
 
-## Contents
-
-### Getting Setup on a MAC
+## Getting Setup
 
 [Install VS Code](Content/vs-code.md)<br>
 [The Basics of BASH](Content/bash-terminal.md)<br>
@@ -12,10 +10,9 @@ Suggested text/code editor that does it all, VSCode. Free, large community build
 [Getting and Using Git](Content/git-tutorial.md)<br>
 [Installing Python](Content/install-python.md)<br>
 
-### Python Basics
+## Course Basics
 
 [Jupyter and Notebooks](Content/notebook-basics.md)<br>
-
 
 ## The Folders
 
@@ -24,6 +21,30 @@ Contains jupyter notebooks that can be opened in VSCode and used to interactivel
 
 ### Data Folder
 Contains some basic CSV and text data for examples.
+
+## Learning Python 
+
+1. [The Python Language]()
+2. [Baby Steps - Crawl before you Walk]()
+3. [Variables - Putting Letters in Math]()
+4. [Functions - The Limit Does Not Exist]()
+5. [Loops and Decisions - Let's Get Loopy]()
+6. [Classes - You Down with OOP, Yeah You Know Me]()
+7. [In-n-Out - Disks and Data, not Burgers]()
+8. [Plotting - Seeing is Believing]()
+9. [Numpy - Blue Pill or Red Pill?]()
+10. [The Error of My Ways - When Things Go Wrong]()
+
+## Python for MatLAB Junkies
+
+1. [Subtle Differences]()
+
+## Python and Serious Math
+
+1. [Linear Algebra - Everyone's Favorite]()
+2. [Least Squares, Rather Be Watching Hollywood Squares]()
+3. [Series - You Won't Find this on Netflix]()
+4. [Fourier - It's Time]()
 
 
 ## Python Links
