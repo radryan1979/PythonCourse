@@ -24,27 +24,27 @@ Contains some basic CSV and text data for examples.
 
 ## Learning Python 
 
-1. [The Python Language]()
-2. [Baby Steps - Crawl before you Walk]()
-3. [Variables - Putting Letters in Math]()
-4. [Functions - The Limit Does Not Exist]()
-5. [Loops and Decisions - Let's Get Loopy]()
-6. [Classes - You Down with OOP, Yeah You Know Me]()
-7. [In-n-Out - Disks and Data, not Burgers]()
-8. [Plotting - Seeing is Believing]()
-9. [Numpy - Blue Pill or Red Pill?]()
-10. [The Error of My Ways - When Things Go Wrong]()
+1. [The Python Language](Content/Python-Content/1-lang.md)
+2. [Baby Steps - Crawl before you Walk](Content/Python-Content/2-baby.md)
+3. [Variables - Putting Letters in Math](Content/Python-Content/3-variable.md)
+4. [Functions - The Limit Does Not Exist](Content/Python-Content/4-func.md)
+5. [Loops and Decisions - Let's Get Loopy](Content/Python-Content/5-loops.md)
+6. [Classes - You Down with OOP, Yeah You Know Me](Content/Python-Content/6-classy.md)
+7. [In-n-Out - Disks and Data, not Burgers](Content/Python-Content/7-in-n-out.md)
+8. [Plotting - Seeing is Believing](Content/Python-Content/8-plot-it.md)
+9. [Numpy - Blue Pill or Red Pill?](Content/Python-Content/9-numpy.md)
+10. [The Error of My Ways - When Things Go Wrong](Content/Python-Content/10-errors.md)
 
 ## Python for MatLAB Junkies
 
-1. [Subtle Differences]()
+1. [Subtle Differences](Content/Python-Content/11-matlab.md)
 
 ## Python and Serious Math
 
-1. [Linear Algebra - Everyone's Favorite]()
-2. [Least Squares, Rather Be Watching Hollywood Squares]()
-3. [Series - You Won't Find this on Netflix]()
-4. [Fourier - It's Time]()
+1. [Linear Algebra - Everyone's Favorite](Content/Python-Content/12-linalg.md)
+2. [Least Squares, Rather Be Watching Hollywood Squares](Content/Python-Content/13-squares.md)
+3. [Series - You Won't Find this on Netflix](Content/Python-Content/14-series.md)
+4. [Fourier - It's Time](Content/Python-Content/15-fourier.md)
 
 
 ## Python Links
