@@ -27,12 +27,12 @@ Contains some basic CSV and text data for examples.
 1. [The Python Language](Content/Python-Content/1-lang.md)
 2. [Baby Steps - Crawl before you Walk](Content/Python-Content/2-baby.md)
 3. [Variables - Putting Letters in Math](Content/Python-Content/3-variable.md)
-4. [Functions - The Limit Does Not Exist](Content/Python-Content/4-func.md)
-5. [Loops and Decisions - Let's Get Loopy](Content/Python-Content/5-loops.md)
-6. [Classes - You Down with OOP, Yeah You Know Me](Content/Python-Content/6-classy.md)
-7. [In-n-Out - Disks and Data, not Burgers](Content/Python-Content/7-in-n-out.md)
+4. [Loops and Decisions - Let's Get Loopy](Content/Python-Content/5-loops.md)
+5. [Functions - The Limit Does Not Exist](Content/Python-Content/4-func.md)
+6. [Numpy - Blue Pill or Red Pill?](Content/Python-Content/9-numpy.md)
+7. [Classes - You Down with OOP, Yeah You Know Me](Content/Python-Content/6-classy.md)
 8. [Plotting - Seeing is Believing](Content/Python-Content/8-plot-it.md)
-9. [Numpy - Blue Pill or Red Pill?](Content/Python-Content/9-numpy.md)
+9. [In-n-Out - Disks and Data, not Burgers](Content/Python-Content/7-in-n-out.md) 
 10. [The Error of My Ways - When Things Go Wrong](Content/Python-Content/10-errors.md)
 
 ## Python for MatLAB Junkies
@@ -62,3 +62,6 @@ Contains some basic CSV and text data for examples.
 
 ## Other Links
 - [Numpy for Matlab](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) users quick comparison.
+
+
+https://github.com/radryan1979/PythonCourse.wiki.git
