@@ -22,18 +22,19 @@ Contains jupyter notebooks that can be opened in VSCode and used to interactivel
 ### Data Folder
 Contains some basic CSV and text data for examples.
 
-## Learning Python 
+## Learning Python Notebooks
 
-1. [The Python Language](Content/Python-Content/1-lang.md)
+1. [The Python Language](Notebooks/1-python-language.ipynb)
 2. [Baby Steps - Crawl before you Walk](Content/Python-Content/2-baby.md)
 3. [Variables - Putting Letters in Math](Content/Python-Content/3-variable.md)
 4. [Loops and Decisions - Let's Get Loopy](Content/Python-Content/5-loops.md)
 5. [Functions - The Limit Does Not Exist](Content/Python-Content/4-func.md)
 6. [Numpy - Blue Pill or Red Pill?](Content/Python-Content/9-numpy.md)
-7. [Classes - You Down with OOP, Yeah You Know Me](Content/Python-Content/6-classy.md)
-8. [Plotting - Seeing is Believing](Content/Python-Content/8-plot-it.md)
+7. [Plotting - Seeing is Believing](Content/Python-Content/8-plot-it.md)
+8. [Classes - You Down with OOP, Yeah You Know Me](Content/Python-Content/6-classy.md)
 9. [In-n-Out - Disks and Data, not Burgers](Content/Python-Content/7-in-n-out.md) 
 10. [The Error of My Ways - When Things Go Wrong](Content/Python-Content/10-errors.md)
+11. [Workflows - Getting Your Ducks In A Row](Content/Python-Content/11-workflows.md)
 
 ## Python for MatLAB Junkies
 
