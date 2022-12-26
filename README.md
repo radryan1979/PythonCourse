@@ -25,8 +25,8 @@ Contains some basic CSV and text data for examples.
 ## Learning Python Notebooks
 
 1. [The Python Language](Notebooks/1-python-language.ipynb)
-2. [Baby Steps - Crawl before you Walk](Content/Python-Content/2-baby.md)
-3. [Variables - Putting Letters in Math](Content/Python-Content/3-variable.md)
+2. [Baby Steps - Crawl before you Walk](Notebooks/2-python-crawl.ipynb)
+3. [Variables - Putting Letters in Math](Notebooks/3-python-variables.ipynb)
 4. [Loops and Decisions - Let's Get Loopy](Content/Python-Content/5-loops.md)
 5. [Functions - The Limit Does Not Exist](Content/Python-Content/4-func.md)
 6. [Numpy - Blue Pill or Red Pill?](Content/Python-Content/9-numpy.md)
