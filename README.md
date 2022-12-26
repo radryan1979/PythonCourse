@@ -1,23 +1,23 @@
-# Python Course for my favorite grad students
+# Python course for my favorite grad students
 
-Suggested text/code editor that does it all, VSCode. Free, large community building extensions for just about everything. Download [VSCode](https://code.visualstudio.com/download)
+Start with the Getting Setup section. You'll want to make sure you have VS Code installed, we'll be using that for just about everything. If you're on a MAC, the Basics of BASH will be helpful. Make sure you have GIT installed, we'll be using that to connected to GitHub to save our code.
+
+Going forward, we'll start using the Conda package manager for Python and will abandon the MacPorts approach. Conda provides a much easier and cleaner way to manage multiple Python environments and packages.
 
 ## Getting Setup
 
-[Install VS Code](Content/vs-code.md)<br>
-[The Basics of BASH](Content/bash-terminal.md)<br>
-[Installing Macports](Content/mac-ports.md)<br>
-[Getting and Using Git](Content/git-tutorial.md)<br>
-[Installing Python](Content/install-python.md)<br>
-
-## Course Basics
-
-[Jupyter and Notebooks](Content/notebook-basics.md)<br>
+[Install VS Code](Pages/install-vs-code.md)<br>
+[The Basics of BASH](Pages/bash-terminal.md)<br>
+[Getting and Using Git](Pages/git-tutorial.md)<br>
+[Installing Conda](Pages/install-conda.md)<br>
+[Installing Macports](Pages/install-mac-ports.md)<br>
 
 ## The Folders
 
 ### Notebooks Folder
 Contains jupyter notebooks that can be opened in VSCode and used to interactively explore concepts.
+
+[Jupyter and Notebooks](Notebooks/notebook-basics.md)<br>
 
 ### Data Folder
 Contains some basic CSV and text data for examples.
@@ -64,5 +64,3 @@ Contains some basic CSV and text data for examples.
 ## Other Links
 - [Numpy for Matlab](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) users quick comparison.
 
-
-https://github.com/radryan1979/PythonCourse.wiki.git
